@@ -55,13 +55,13 @@ public class ItemLookupSample {
 	public static ArrayList<Integer> vRating = new ArrayList<Integer>();
 	
 	
-    private static final String AWS_ACCESS_KEY_ID = "AKIAJFKSB4XWV2FZNIYQ";
+    private static final String AWS_ACCESS_KEY_ID = "";
 
     /*
      * Your AWS Secret Key corresponding to the above ID, as taken from the AWS
      * Your Account page.
      */
-    private static final String AWS_SECRET_KEY = "WIvV6oCB7Lm8IOfLZO62NMU1DxKNwVohkNQJ+IHD";
+    private static final String AWS_SECRET_KEY = "";
 
     /*
      * Use one of the following end-points, according to the region you are
